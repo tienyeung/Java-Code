@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75166ed7-d19f-4fee-afdd-8823615f766e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZwMzHJQokBTA991MGc5ocnsu22" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="file.practice.vote" />
+      <recent name="file.practice.sort" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="file.practice.vote" />
+      <recent name="file.practice.login" />
+      <recent name="file.practice.sort" />
+      <recent name="file.practice.reverse" />
+      <recent name="file.practice.restore" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.JavaDemo6">
+    <configuration name="JavaDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="file.practice.reverse.JavaDemo3" />
+      <module name="IOPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="file.practice.reverse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="file.practice.sort.JavaDemo4" />
+      <module name="IOPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="file.practice.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaDemo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="file.practice.login.JavaDemo5" />
+      <module name="IOPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="file.practice.login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaDemo6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="file.practice.vote.JavaDemo6" />
+      <module name="IOPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="file.practice.vote.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumSorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="file.practice.sort.NumSorted" />
+      <module name="IOPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="file.practice.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JavaDemo6" />
+        <item itemvalue="Application.JavaDemo5" />
+        <item itemvalue="Application.JavaDemo4" />
+        <item itemvalue="Application.NumSorted" />
+        <item itemvalue="Application.JavaDemo3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75166ed7-d19f-4fee-afdd-8823615f766e" name="Default Changelist" comment="" />
+      <created>1585745963837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585745963837</updated>
+      <workItem from="1585745967673" duration="6366000" />
+      <workItem from="1585917149256" duration="10234000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="369" y="122" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585918077207">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="369" y="122" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.806@0.23.1440.806" timestamp="1585918077207" />
+    <state x="602" y="223" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585748182320">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="602" y="223" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.806@0.23.1440.806" timestamp="1585748182320" />
+    <state x="959" y="161" key="#com.intellij.ide.util.MemberChooser" timestamp="1586000704344">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="959" y="161" key="#com.intellij.ide.util.MemberChooser/0.23.1440.806@0.23.1440.806" timestamp="1586000704344" />
+    <state width="1358" height="194" key="GridCell.Tab.0.bottom" timestamp="1586002435663">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1358" height="194" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1586002435663" />
+    <state width="1358" height="194" key="GridCell.Tab.0.center" timestamp="1586002435662">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1358" height="194" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1586002435662" />
+    <state width="1358" height="194" key="GridCell.Tab.0.left" timestamp="1586002435662">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1358" height="194" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1586002435662" />
+    <state width="1358" height="194" key="GridCell.Tab.0.right" timestamp="1586002435663">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1358" height="194" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1586002435663" />
+    <state x="458" y="99" key="SettingsEditor" timestamp="1585918395969">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="458" y="99" key="SettingsEditor/0.23.1440.806@0.23.1440.806" timestamp="1585918395969" />
+    <state x="680" y="153" width="670" height="676" key="search.everywhere.popup" timestamp="1585835565541">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="680" y="153" width="670" height="676" key="search.everywhere.popup/0.23.1440.806@0.23.1440.806" timestamp="1585835565541" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/file/practice/sort/InputUtil.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9db9524-2dec-4d5e-84cc-7b90f02e8544" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="189" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZZqJmwcJB5k306znj71tuNQnD2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.Serial">
+    <configuration name="CopyUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CopyUtil" />
+      <module name="FileOperation" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;$PROJECT_DIR$/&quot; &quot;$PROJECT_DIR$/../File/&quot;" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Print" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Print" />
+      <module name="FileOperation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Serial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Serial" />
+      <module name="FileOperation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bufferedReader1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bufferedReader1" />
+      <module name="FileOperation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="system1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="system1" />
+      <module name="FileOperation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CopyUtil" />
+      <item itemvalue="Application.Print" />
+      <item itemvalue="Application.system1" />
+      <item itemvalue="Application.bufferedReader1" />
+      <item itemvalue="Application.Serial" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Serial" />
+        <item itemvalue="Application.bufferedReader1" />
+        <item itemvalue="Application.system1" />
+        <item itemvalue="Application.Print" />
+        <item itemvalue="Application.CopyUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9db9524-2dec-4d5e-84cc-7b90f02e8544" name="Default Changelist" comment="" />
+      <created>1585056894317</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585056894317</updated>
+      <workItem from="1585056901432" duration="4153000" />
+      <workItem from="1585129770362" duration="14606000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="117" y="153" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585401736493">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="117" y="153" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.806@0.23.1440.806" timestamp="1585401736493" />
+    <state x="692" y="203" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1585318473355">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="692" y="203" key="#com.intellij.ide.macro.MacrosDialog/0.23.1440.806@0.23.1440.806" timestamp="1585318473355" />
+    <state x="959" y="245" key="#com.intellij.ide.util.MemberChooser" timestamp="1585743396577">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="959" y="245" key="#com.intellij.ide.util.MemberChooser/0.23.1440.806@0.23.1440.806" timestamp="1585743396577" />
+    <state width="1358" height="194" key="GridCell.Tab.0.bottom" timestamp="1585745965970">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1358" height="194" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1585745965970" />
+    <state width="1358" height="194" key="GridCell.Tab.0.center" timestamp="1585745965969">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1358" height="194" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1585745965969" />
+    <state width="1358" height="194" key="GridCell.Tab.0.left" timestamp="1585745965969">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1358" height="194" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1585745965969" />
+    <state width="1358" height="194" key="GridCell.Tab.0.right" timestamp="1585745965970">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1358" height="194" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1585745965970" />
+    <state x="299" y="67" key="new project wizard" timestamp="1585745962206">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="299" y="67" key="new project wizard/0.23.1440.806@0.23.1440.806" timestamp="1585745962206" />
+    <state x="870" y="153" width="670" height="676" key="search.everywhere.popup" timestamp="1585745697955">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="870" y="153" width="670" height="676" key="search.everywhere.popup/0.23.1440.806@0.23.1440.806" timestamp="1585745697955" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FileOperation$CopyUtil.ic" NAME="CopyUtil Coverage Results" MODIFIED="1585318388862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
