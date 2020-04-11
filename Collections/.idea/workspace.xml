@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d64804d-afca-424b-9567-2d56245d0a88" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aDJYyKkhH33CKHgnefvcwDtTAx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.DiyMap">
+    <configuration name="DiyMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DiyMap" />
+      <module name="Collections" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashMapBase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashMapBase" />
+      <module name="Collections" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IteratorBase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IteratorBase" />
+      <module name="Collections" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IteratorForMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IteratorForMap" />
+      <module name="Collections" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetBase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SetBase" />
+      <module name="Collections" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DiyMap" />
+        <item itemvalue="Application.IteratorForMap" />
+        <item itemvalue="Application.HashMapBase" />
+        <item itemvalue="Application.IteratorBase" />
+        <item itemvalue="Application.SetBase" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d64804d-afca-424b-9567-2d56245d0a88" name="Default Changelist" comment="" />
+      <created>1586264283938</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586264283938</updated>
+      <workItem from="1586264288468" duration="8055000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1941" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1586354538069">
+      <screen x="1440" y="23" width="1020" height="675" />
+    </state>
+    <state x="1941" y="80" key="#com.intellij.ide.util.MemberChooser/1440.23.1020.675/0.23.1440.877@1440.23.1020.675" timestamp="1586354538069" />
+    <state x="1941" y="116" key="#com.intellij.ide.util.MemberChooser/1440.23.1020.741/0.23.1440.806@1440.23.1020.741" timestamp="1586266727001" />
+    <state width="978" height="185" key="GridCell.Tab.0.bottom" timestamp="1586404943025">
+      <screen x="1440" y="23" width="1020" height="675" />
+    </state>
+    <state width="978" height="185" key="GridCell.Tab.0.bottom/1440.23.1020.675/0.23.1440.877@1440.23.1020.675" timestamp="1586404943025" />
+    <state width="1358" height="185" key="GridCell.Tab.0.bottom/1440.23.1020.741/0.23.1440.806@1440.23.1020.741" timestamp="1586267464388" />
+    <state width="978" height="185" key="GridCell.Tab.0.center" timestamp="1586404943024">
+      <screen x="1440" y="23" width="1020" height="675" />
+    </state>
+    <state width="978" height="185" key="GridCell.Tab.0.center/1440.23.1020.675/0.23.1440.877@1440.23.1020.675" timestamp="1586404943024" />
+    <state width="1358" height="185" key="GridCell.Tab.0.center/1440.23.1020.741/0.23.1440.806@1440.23.1020.741" timestamp="1586267464386" />
+    <state width="978" height="185" key="GridCell.Tab.0.left" timestamp="1586404943023">
+      <screen x="1440" y="23" width="1020" height="675" />
+    </state>
+    <state width="978" height="185" key="GridCell.Tab.0.left/1440.23.1020.675/0.23.1440.877@1440.23.1020.675" timestamp="1586404943023" />
+    <state width="1358" height="185" key="GridCell.Tab.0.left/1440.23.1020.741/0.23.1440.806@1440.23.1020.741" timestamp="1586267464385" />
+    <state width="978" height="185" key="GridCell.Tab.0.right" timestamp="1586404943024">
+      <screen x="1440" y="23" width="1020" height="675" />
+    </state>
+    <state width="978" height="185" key="GridCell.Tab.0.right/1440.23.1020.675/0.23.1440.877@1440.23.1020.675" timestamp="1586404943024" />
+    <state width="1358" height="185" key="GridCell.Tab.0.right/1440.23.1020.741/0.23.1440.806@1440.23.1020.741" timestamp="1586267464387" />
+    <state x="1440" y="23" key="new project wizard" timestamp="1586404940873">
+      <screen x="1440" y="23" width="1020" height="675" />
+    </state>
+    <state x="1440" y="23" key="new project wizard/1440.23.1020.675/0.23.1440.877@1440.23.1020.675" timestamp="1586404940873" />
+  </component>
+</project>
