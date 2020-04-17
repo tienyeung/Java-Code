@@ -1,4 +1,4 @@
-#1 JavaSE
+# 1 JavaSE
 
 1. [JavaSE](https://developer.aliyun.com/course/1000) MLDN学院的Java从零基础到入门的课程：讲课风格风趣，讲解细致；跟着老师敲一遍代码，对java的见解深入许多；写了两份课堂笔记；
 2. 书籍《HeadFirst Java》：行文风趣，但看完像没看过一样，因为没有上手；

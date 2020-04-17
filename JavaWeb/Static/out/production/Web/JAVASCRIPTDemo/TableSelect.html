@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>表格全选</title>
+    <!--功能
+        1. 表格的全选，全不选，反选操作
+        2.指针的悬停变色操作 -->
+    <style>
+        table{
+            border: 1px solid;
+            margin: auto;
+            width: 500px;
+        }
+
+        td,th{
+            text-align: center;
+            border: 1px solid;
+        }
+        div{
+            text-align: center;
+            margin-top: 10px;
+        }
+        .over{
+            background-color: pink;
+        }
+        .out{
+            background-color: white;
+        }
+    </style>
+    <script>
+        //页面加载完后绑定事件
+        window.onload=function(){
+            //1.全选
+            document.getElementById("selectAll").onclick=function(){
+                    //获取所有checkbox对象
+                    let cbs = document.getElementsByName("cb");
+                    for (let i = 0; i < cbs.length ; i++) {
+                        cbs[i].checked=true;
+                    }
+            }
+            //2.全不选
+            document.getElementById("unSelectAll").onclick=function(){
+                //获取所有checkbox对象
+                let cbs = document.getElementsByName("cb");
+                for (let i = 0; i < cbs.length ; i++) {
+                    cbs[i].checked=false;
+                }
+            }
+            //3.反选
+            document.getElementById("selectRev").onclick=function(){
+                //获取所有checkbox对象
+                let cbs = document.getElementsByName("cb");
+                for (let i = 0; i < cbs.length ; i++) {
+                    // if(cbs[i].checked==false){
+                    //     cbs[i].checked=true;
+                    // }else {
+                    //     cbs[i].checked=false;
+                    // }
+                    cbs[i].checked = !cbs[i].checked;
+
+                }
+            }
+            //4.表头checkbox
+            document.getElementById("firstCb").onclick=function(){
+                //获取所有checkbox对象
+                let cbs = document.getElementsByName("cb");
+                for (let i = 0; i < cbs.length ; i++) {
+                    //将所有行的checkbox设置为此表头的checkbox的状态一样
+                    cbs[i].checked =  this.checked;
+
+                }
+            }
+            //5.鼠标事件
+            //获取所有行
+            let trs = document.getElementsByTagName("tr");
+            for (let i = 0; i < trs.length ; i++) {
+                trs[i].onmouseover = function(){
+                    this.className = "over";
+                }
+
+                //移出元素
+                trs[i].onmouseout = function(){
+                    this.className = "out";
+                }
+            }
+
+        };
+
+        function delTr(obj) {
+            var table = obj.parentNode.parentNode.parentNode;
+            var tr = obj.parentNode.parentNode;
+
+            table.removeChild(tr);
+        }
+
+    </script>
+</head>
+<body>
+<table>
+    <caption>学生信息表</caption>
+    <tr>
+        <th><input type="checkbox" name="cb" id="firstCb"></th>
+        <th>编号</th>
+        <th>姓名</th>
+        <th>性别</th>
+        <th>操作</th>
+    </tr>
+
+    <tr>
+        <td ><input type="checkbox"  name="cb" ></td>
+        <td>1</td>
+        <td>令狐冲</td>
+        <td>男</td>
+        <td><a href="javascript:void(0);" onclick="delTr(this)" >删除</a></td>
+    </tr>
+
+    <tr>
+        <td><input type="checkbox"  name="cb" ></td>
+        <td>2</td>
+        <td>任我行</td>
+        <td>男</td>
+        <td><a href="javascript:void(0);" onclick="delTr(this)">删除</a></td>
+    </tr>
+
+    <tr>
+        <td><input type="checkbox"  name="cb" ></td>
+        <td>3</td>
+        <td>岳不群</td>
+        <td>?</td>
+        <td><a href="javascript:void(0);" onclick="delTr(this)">删除</a></td>
+    </tr>
+
+</table>
+<div>
+    <input type="button" id="selectAll" value="全选">
+    <input type="button" id="unSelectAll" value="全不选">
+    <input type="button" id="selectRev" value="反选">
+</div>
+</body>
+</html>

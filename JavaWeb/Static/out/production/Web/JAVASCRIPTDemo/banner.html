@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>轮播图</title>
+</head>
+<body>
+    <img src="../res/banner_1.jpg" width="100%" id="img1">
+
+
+<script>
+    var num = 1;
+    var img = document.getElementById("img1");
+    function fun(){
+        num++;
+        if(num>3){
+            num=1;
+        }
+        img.src="../res/banner_"+num+".jpg";
+    }
+    setInterval(fun,3000)
+
+</script>
+</body>
+</html>

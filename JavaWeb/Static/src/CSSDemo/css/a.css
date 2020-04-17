@@ -1,0 +1,35 @@
+div{
+    border: greenyellow;
+}
+#first{
+    color:antiquewhite;
+}
+.cls{
+    color: aqua;
+    border: 1px solid red;
+}
+div p{
+    color: red;
+    font-size: 40px;
+    text-align: center;
+    line-height: normal;
+    background: beige;
+
+}
+input[type="text"]{
+    border: 3px solid ;
+    height: 200px;
+    width: 200px;
+}
+a:link{
+    color: pink;
+}
+a:visited{
+    color: gray;
+}
+a:active{
+    color: blue;
+}
+a:hover{
+    color: beige;
+}

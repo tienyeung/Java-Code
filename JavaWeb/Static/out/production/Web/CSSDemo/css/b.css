@@ -1,0 +1,16 @@
+div{
+    border: 1px solid indianred;
+    width: 80%;
+}
+.div1{
+    height: 200px;
+    width: 200px;
+}
+.div2{
+    height: 100px;
+    width: 100px;
+    margin: 50px;
+}
+.div3{
+    float: right;
+}

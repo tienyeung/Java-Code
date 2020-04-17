@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>用户登录</title>
+    <script>
+        window.onload=function(){
+            var img = document.getElementById('checkcode');
+            img.onclick=function () {
+                //加时间戳，防止浏览器缓存造成的因更换验证码图片访问servlet失败
+                let date = new Date().getTime();
+                img.src="/Servlet4CheckCode?"+date;
+            }
+            let url = document.getElementById("a");
+            url.onclick=function () {
+                let date = new Date().getTime();
+                img.src="/Servlet4CheckCode?"+date;
+            }
+
+        }
+    </script>
+</head>
+<body>
+    <form action="/Servlet4CheckCode" method="post">
+        用户名：<input placeholder="请输入用户名" name="username"><br>
+        密码：<input placeholder="请输入" type="password" name="password"><br>
+        验证码：<img src="/Servlet4CheckCode" id="checkcode"> <a href="javascript:void (0)" id="change">看不清，换一张</a>
+        <br>
+        <input type="submit" value="登录">
+
+
+
+    </form>
+</body>
+</html>
